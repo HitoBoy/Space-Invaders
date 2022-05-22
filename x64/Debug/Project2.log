@@ -1,0 +1,23 @@
+﻿  Boost.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Boss.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Bullet.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Explosion.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Game.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\Project2\Project2\Game.cpp(293,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Project2\Project2\Game.cpp(440,31): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Main.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Saucer.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Spaceship.cpp
+G:\Project2\Project2\Default.h(17,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\Project2\Project2\Spaceship.cpp(56,28): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+G:\Project2\Project2\Spaceship.cpp(95,20): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+G:\Project2\Project2\Spaceship.cpp(100,20): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+  Project2.vcxproj -> G:\Project2\x64\Debug\Project2.exe
