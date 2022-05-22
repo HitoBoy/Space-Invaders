@@ -21,7 +21,7 @@ Giới thiệu:
     Game có âm thanh
     Game có thể chơi lại nhiều lần
     
-   Quá trình làm game:
+  Quá trình làm game:
    Học trên LazyFoo và trên Youtube: https://www.youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx.
    Code có tham khảo chủ yếu trên https://github.com/TranAnhTu17/ChickenInvaders.
    Âm thanh, hình ảnh em tìm trên mạng.
