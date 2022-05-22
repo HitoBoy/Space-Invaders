@@ -14,14 +14,14 @@ Giới thiệu:
   - Trong quá trình đánh boss, nếu bạn không giết nhanh thì boss sẽ gọi lại UFO đánh bạn
   - Game kết thúc khi boss bị hạ gục, hoặc khi bạn hết mạng.
   
-  Công việc đã làm:
-    Lập trình game hướng đối tượng
-    Game có menu
-    Game có animation
-    Game có âm thanh
-    Game có thể chơi lại nhiều lần
+ Công việc đã làm:
+  - Lập trình game hướng đối tượng
+  - Game có menu
+  - Game có animation
+  - Game có âm thanh
+  - Game có thể chơi lại nhiều lần
     
-  Quá trình làm game:
-   Học trên LazyFoo và trên Youtube: https://www.youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx.
-   Code có tham khảo chủ yếu trên https://github.com/TranAnhTu17/ChickenInvaders.
-   Âm thanh, hình ảnh em tìm trên mạng.
+ Quá trình làm game:
+  - Học trên LazyFoo và trên Youtube: https://www.youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx.
+  - Code có tham khảo chủ yếu trên https://github.com/TranAnhTu17/ChickenInvaders.
+  - Âm thanh, hình ảnh em tìm trên mạng.
